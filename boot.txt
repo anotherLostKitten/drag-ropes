@@ -5363,6 +5363,8 @@ rotate
 z 30
 move
 100 50 0
+project
+250
 apply
 display
 save
