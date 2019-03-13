@@ -1,6 +1,8 @@
 document.addEventListener("DOMContentLoaded",()=>{
-    const c = document.getElementById("playground");
+	const c = document.getElementById("playground");
     const ctx = c.getContext("2d");
+	ctx.fillStyle="#ff0000";
+	ctx.strokeStyle="#ff0000";
 	out=document.getElementById("out");
     var curves = []
 	var cur_curve = []
