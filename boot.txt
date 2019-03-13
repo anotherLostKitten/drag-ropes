@@ -5363,9 +5363,13 @@ rotate
 z 30
 move
 100 50 0
+rotate
+z 90
 project
 250
+move
+250 250 0
 apply
 display
 save
-this.ppm
+boot.png
