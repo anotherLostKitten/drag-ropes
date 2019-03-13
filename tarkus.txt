@@ -1,3 +1,4 @@
+ident
 bezier
 48 209 67 204 84 202 104 206
 bezier
@@ -246,3 +247,15 @@ bezier
 242 433 265 432 281 430 299 429
 bezier
 258 456 281 458 309 455 316 453
+rotate
+z 180
+move
+500 500 0
+rotate
+y 180
+move
+500 0 0
+apply
+display
+save
+tarkus.png
